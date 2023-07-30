@@ -55,6 +55,6 @@ Final High-Quality Wav2Lip Video
 
 
 By following this pipeline, users can transform their input audio and video pairs into high-quality wav2lip synchronized videos.
-![Alt text]('./flowchart.png')
+![Alt text](./flowchart.png)
 
 
