@@ -1,6 +1,7 @@
 # Wav2Lip Synchronization Project
 
 This project aims to improve the quality of videos synchronized with audio using the `wav2lip` method. It takes a pair of audio and video as input and returns a high-quality wav2lip synchronized video. Below is the complete pipeline:
+```
 
 Input Audio & Video 
     |
@@ -22,7 +23,7 @@ Low Quality Wav2Lip Video
     |
     v
 Final High-Quality Wav2Lip Video
-
+```
 
 
 
